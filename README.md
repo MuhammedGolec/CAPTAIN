@@ -3,7 +3,8 @@
 CAPTAIN: AIoT Enabled Scalable Serverless Computing Framework for Predictive Maintenance in Industry 4.0
 
 
-![Main Diagram](https://github.com/MuhammedGolec/CAPTAIN/assets/61287653/598b6479-8b65-4078-82c7-d85b33767aa1)
+![MAIN](https://github.com/user-attachments/assets/31fb9dec-da5e-44f4-afca-965d26599669)
+
 
 ![307597661-598b6479-8b65-4078-82c7-d85b33767aa1](https://github.com/user-attachments/assets/0a7d0f21-8b83-461e-be15-0e9e75c0da4a)
 
