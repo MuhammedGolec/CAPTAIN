@@ -1,5 +1,5 @@
 
-#CAPTAIN
+# CAPTAIN
 CAPTAIN: AIoT Enabled Scalable Serverless Computing Framework for Predictive Maintenance in Industry 4.0
 
 ![CSPF Architecture](https://github.com/MuhammedGolec/CAPTAIN/assets/61287653/1961595e-cb77-47fe-96c2-6902cb6852af)
