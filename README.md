@@ -3,10 +3,9 @@
 CAPTAIN: AIoT Enabled Scalable Serverless Computing Framework for Predictive Maintenance in Industry 4.0
 
 
-![307597661-598b6479-8b65-4078-82c7-d85b33767aa1](https://github.com/user-attachments/assets/a26cc81d-f459-4fee-ada0-bce044af69fd)
-
-
-![MAIN](https://github.com/user-attachments/assets/c6d4dbe8-da5f-48fb-8295-d6df35a85414)
+ 
+![307597661-598b6479-8b65-4078-82c7-d85b33767aa1](https://github.com/user-attachments/assets/b5e4c2d4-ec2e-494e-bd56-67c20296bef5)
+![MAIN](https://github.com/user-attachments/assets/6dfc00b7-0995-4032-8c70-0bd278df4a8e)
 
 
 
