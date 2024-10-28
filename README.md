@@ -26,7 +26,7 @@ In this paper, two different cold start datasets were used in the experiments on
 Warning: The copyright of the shared work is reserved. Reference should be cite to the CAPTAIN article for use in academic studies. 
 
 To cite:
-M. Golec, H. Wu, R. Ozturac, A. Parlikad, F. Cuadrado, S. S. Gill and S. Uhlig "CAPTAIN: AIoT Enabled Scalable Serverless Computing Framework for Predictive Maintenance in Industry 4.0" in IEEE Internet of Things Journal, doi: XXXX.
+M. Golec, H. Wu, R. Ozturac, A. Parlikad, F. Cuadrado, S. S. Gill and S. Uhlig "CAPTAIN: A Testbed for Co-Simulation of Scalable Serverless Computing Environments for AIoT Enabled Predictive Maintenance in Industry 4.0" in IEEE Internet of Things Journal, doi: XXXX.
 
 # Developer:
 **Muhammed Göleç** <br/> 
