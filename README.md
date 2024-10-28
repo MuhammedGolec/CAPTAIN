@@ -1,6 +1,6 @@
 
 # CAPTAIN
-CAPTAIN: AIoT Enabled Scalable Serverless Computing Framework for Predictive Maintenance in Industry 4.0
+CAPTAIN: A Testbed for Co-Simulation of Scalable Serverless Computing Environments for AIoT Enabled Predictive Maintenance in Industry 4.0
 
 IIoT applications are a critical technology for the realization of Industry 4.0 and require sustainable solutions because they generate enormous amounts of data. One of these solutions is serverless computing, which has recently attracted attention in academia and the private sector. Serverless computing provides energy and cost efficiency by scaling empty containers to zero. However, the zero-scaling technology is also the main reason for the cold start issue that still awaits a solution in serverless computing. Most of the literature studies on this problem include solutions that require unnecessary resource consumption, such as keeping containers warm. The CAPTAIN framework aims to both reduce cold starts in serverless computing and provide a more sustainable solution in Industry 4.0 with a new approach that does not require resources to work in vain.
 
