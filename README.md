@@ -24,6 +24,7 @@ In this paper, two different cold start datasets were used in the experiments on
 
 Warning: The copyright of the shared work is reserved. Reference should be cited to the CAPTAIN article for use in academic studies. 
 
+[Watch on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/aCJ_bd4odqU)) 
 
 
 To cite:
