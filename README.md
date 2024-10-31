@@ -28,7 +28,9 @@ Warning: The copyright of the shared work is reserved. Reference should be cited
 
 
 To cite:
-M. Golec, H. Wu, R. Ozturac, A. Parlikad, F. Cuadrado, S. S. Gill and S. Uhlig "CAPTAIN: A Testbed for Co-Simulation of Scalable Serverless Computing Environments for AIoT Enabled Predictive Maintenance in Industry 4.0" in IEEE Internet of Things Journal, doi: XXXX.
+M. Golec et al., "CAPTAIN: A Testbed for Co-Simulation of Scalable Serverless Computing Environments for AIoT Enabled Predictive Maintenance in Industry 4.0," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3488283.
+keywords: {Containers;Industrial Internet of Things;Artificial intelligence;Serverless computing;Computational modeling;Predictive models;Predictive maintenance;Fourth Industrial Revolution;Manufacturing;Time-frequency analysis;Serverless Computing;Cloud Computing;Artificial Intelligence;Flexible Manufacturing;Predictive Maintenance;Industrial Internet of Things},
+ 
 
 # Developer:
 **Muhammed Göleç** <br/> 
